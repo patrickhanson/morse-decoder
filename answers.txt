@@ -1,0 +1,7 @@
+Morse Code 1
+
+https://www.codewars.com/kata/reviews/54b728a011ac2463580002cb/groups/5be493edece2b5d563003277
+
+Morse Code 2
+
+https://www.codewars.com/kata/reviews/54b8290eafdfc1286e00000e/groups/5bec3170bb886f6f59000ff5
